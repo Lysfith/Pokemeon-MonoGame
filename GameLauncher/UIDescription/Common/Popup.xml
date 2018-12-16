@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UIPanel x="20" y="20" width="60" height="60" colorR="0" colorG="0" colorB="173" colorA="255">
+  <UILabel x="10" y="40" width="80" height="10" colorR="255" colorG="255" colorB="255" colorA="255" textcentered="true">
+    Hello World !
+  </UILabel>
+  <UIButton x="20" y="80" width="20" height="20" colorR="255" colorG="255" colorB="255" colorA="255">
+    Yes
+  </UIButton>
+  <UIButton x="60" y="80" width="20" height="20" colorR="255" colorG="255" colorB="255" colorA="255">
+    No
+  </UIButton>
+</UIPanel>

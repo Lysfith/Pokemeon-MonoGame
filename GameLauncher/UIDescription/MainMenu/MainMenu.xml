@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UI>
+  <UILayer x="0" y="0" width="100" height="100" colorR="0" colorG="0" colorB="0" colorA="255">
+    <UIImage x="30" y="10" width="40" height="40" src="Textures/ff7-logo"/>
+    <UIButton x="20" y="60" width="60" height="5" colorR="255" colorG="255" colorB="255" colorA="255" onhoverstart="Button_HoverStart" onhoverend="Button_HoverEnd">New Game</UIButton>
+    <UIButton x="20" y="70" width="60" height="5" colorR="255" colorG="255" colorB="255" colorA="255" onhoverstart="Button_HoverStart" onhoverend="Button_HoverEnd">Settings</UIButton>
+    <UIButton x="20" y="80" width="60" height="5" colorR="255" colorG="255" colorB="255" colorA="255" onhoverstart="Button_HoverStart" onhoverend="Button_HoverEnd" ongainfocus="Quit_OnGainFocus">Quit</UIButton>
+  </UILayer>
+  <!--<UILayer x="0" y="0" width="100" height="100" colorR="100" colorG="100" colorB="100" colorA="100">
+    <ControlFile x="20" y="20" width="60" height="60">UIDescription/Common/Popup.xml</ControlFile>
+  </UILayer>-->
+</UI>

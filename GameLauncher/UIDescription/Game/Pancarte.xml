@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<UIPanel x="5" y="75" width="90" height="20" colorR="0" colorG="0" colorB="173" colorA="255">
+  <UILabel x="10" y="10" width="80" height="80" colorR="255" colorG="255" colorB="255" colorA="255" textcentered="true" text="pancarte_text">
+    
+  </UILabel>
+</UIPanel>
